@@ -22,9 +22,8 @@ The aim is to understand the factors affecting the demand for these shared bikes
 
 Following data set have been used for the project
 
-=========================================
 Dataset characteristics
-=========================================	
+	
 day.csv have the following fields:
 	
 	- instant: record index
